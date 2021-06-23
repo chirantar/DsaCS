@@ -7,9 +7,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSumPathBT", "KSumPathBT\KS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseLevelOrder", "ReverseLevelOrder\ReverseLevelOrder.csproj", "{B936296B-E2FA-4A97-B3F5-72524A255CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopAndOtherViews", "TopAndOtherViews\TopAndOtherViews.csproj", "{AA407EC9-434F-4551-8EC4-8B98D15C168F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopAndOtherViews", "TopAndOtherViews\TopAndOtherViews.csproj", "{AA407EC9-434F-4551-8EC4-8B98D15C168F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterativeTraversals", "IterativeTraversals\IterativeTraversals.csproj", "{07F63779-C921-4DC7-897C-0357645518B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterativeTraversals", "IterativeTraversals\IterativeTraversals.csproj", "{07F63779-C921-4DC7-897C-0357645518B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfGivenGraphIsTree", "CheckIfGivenGraphIsTree\CheckIfGivenGraphIsTree.csproj", "{DDD1771C-7A2A-42A2-930A-55E9A0D6074B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZIgZagTraversal", "ZIgZagTraversal\ZIgZagTraversal.csproj", "{CB4987E9-A011-4584-B91B-402AAB91282B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundaryTraversal", "BoundaryTraversal\BoundaryTraversal.csproj", "{559007D5-F56A-48B5-8467-28A3EBD44013}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{07F63779-C921-4DC7-897C-0357645518B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07F63779-C921-4DC7-897C-0357645518B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07F63779-C921-4DC7-897C-0357645518B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD1771C-7A2A-42A2-930A-55E9A0D6074B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD1771C-7A2A-42A2-930A-55E9A0D6074B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD1771C-7A2A-42A2-930A-55E9A0D6074B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD1771C-7A2A-42A2-930A-55E9A0D6074B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4987E9-A011-4584-B91B-402AAB91282B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4987E9-A011-4584-B91B-402AAB91282B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4987E9-A011-4584-B91B-402AAB91282B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4987E9-A011-4584-B91B-402AAB91282B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559007D5-F56A-48B5-8467-28A3EBD44013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559007D5-F56A-48B5-8467-28A3EBD44013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559007D5-F56A-48B5-8467-28A3EBD44013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559007D5-F56A-48B5-8467-28A3EBD44013}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
