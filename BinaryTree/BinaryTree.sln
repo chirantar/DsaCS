@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopAndOtherViews", "TopAndO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IterativeTraversals", "IterativeTraversals\IterativeTraversals.csproj", "{07F63779-C921-4DC7-897C-0357645518B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfGivenGraphIsTree", "CheckIfGivenGraphIsTree\CheckIfGivenGraphIsTree.csproj", "{DDD1771C-7A2A-42A2-930A-55E9A0D6074B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckIfGivenGraphIsTree", "CheckIfGivenGraphIsTree\CheckIfGivenGraphIsTree.csproj", "{DDD1771C-7A2A-42A2-930A-55E9A0D6074B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZIgZagTraversal", "ZIgZagTraversal\ZIgZagTraversal.csproj", "{CB4987E9-A011-4584-B91B-402AAB91282B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZIgZagTraversal", "ZIgZagTraversal\ZIgZagTraversal.csproj", "{CB4987E9-A011-4584-B91B-402AAB91282B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoundaryTraversal", "BoundaryTraversal\BoundaryTraversal.csproj", "{559007D5-F56A-48B5-8467-28A3EBD44013}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoundaryTraversal", "BoundaryTraversal\BoundaryTraversal.csproj", "{559007D5-F56A-48B5-8467-28A3EBD44013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenTwoNodes", "DistanceBetweenTwoNodes\DistanceBetweenTwoNodes.csproj", "{F6F6C263-80DE-4782-B65C-CA6AF37A9225}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{559007D5-F56A-48B5-8467-28A3EBD44013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{559007D5-F56A-48B5-8467-28A3EBD44013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{559007D5-F56A-48B5-8467-28A3EBD44013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F6C263-80DE-4782-B65C-CA6AF37A9225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F6C263-80DE-4782-B65C-CA6AF37A9225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F6C263-80DE-4782-B65C-CA6AF37A9225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F6C263-80DE-4782-B65C-CA6AF37A9225}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
